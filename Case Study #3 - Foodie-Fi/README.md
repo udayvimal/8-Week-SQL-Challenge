@@ -1,4 +1,5 @@
 # 🥑 Case Study #3: Foodie-Fi
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://user-images.githubusercontent.com/81607668/129742132-8e13c136-adf2-49c4-9866-dec6be0d30f0.png" width="500" height="520" alt="image">
 
@@ -48,11 +49,9 @@ When customers churn, they will keep their access until the end of their current
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/rHJhRrXy5hbVBNJ6F6b9gJ/16). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/rHJhRrXy5hbVBNJ6F6b9gJ/16). Feel free to try the questions yourself!
 
-Additionally, I have also published this case study on [Medium](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-3-foodie-fi-3d8497376ea9?sk=579afc01c30aa6149d85050f8a46ddef).
-
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 ## 🎞️ A. Customer Journey
 

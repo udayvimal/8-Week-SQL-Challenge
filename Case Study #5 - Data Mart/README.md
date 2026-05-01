@@ -1,4 +1,5 @@
 # Case Study #5: Data Mart
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://user-images.githubusercontent.com/81607668/131437982-fc087a4c-0b77-4714-907b-54e0420e7166.png" alt="Image" width="500" height="520">
 
@@ -46,9 +47,9 @@ Each record in the dataset is related to a specific aggregated slice of the unde
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/jmnwogTsUE8hGqkZv9H7E8/8). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/jmnwogTsUE8hGqkZv9H7E8/8). Feel free to try the questions yourself!
 
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 ## 🧼 A. Data Cleansing Steps
 
@@ -478,7 +479,7 @@ FROM before_after_changes;
 |:----|:----|
 |-152325394|-2.14|
 
-Looks like the sales have experienced a further decline, now at a negative 2.14%! If I'm Danny's boss, I wouldn't be too happy with the results.
+The sales continue to decline, now at a negative 2.14% — a concerning trend for the business.
 
 ***
 

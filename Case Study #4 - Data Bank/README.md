@@ -1,4 +1,5 @@
 ## Case Study #4: Data Bank
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
 
@@ -46,9 +47,9 @@ This table stores all customer deposits, withdrawals and purchases made using th
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/2GtQz4wZtuNNu7zXH5HtV4/3). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/2GtQz4wZtuNNu7zXH5HtV4/3). Feel free to try the questions yourself!
 
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 ## 🏦 A. Customer Nodes Exploration
 
@@ -251,7 +252,7 @@ ORDER BY mth;
 
 **4. What is the closing balance for each customer at the end of the month? Also show the change in balance each month in the same table output.**
 
-Update Jun 2, 2023: Even after 2 years, I continue to find this question incredibly challenging. I have cleaned up the code and provided additional explanations. 
+This is one of the more challenging questions in this case study. The key is to build up the table by running the CTEs cumulatively. 
 
 The key aspect to understanding the solution is to build up the tabele and run the CTEs cumulatively (run CTE 1 first, then run CTE 1 & 2, and so on). This approach allows for a better understanding of why specific columns were created or how the information in the tables progressed. 
 
@@ -572,4 +573,4 @@ FROM variance_cte;
 
 ***
 
-Do give me a 🌟 if you like what you're reading. Thank you! 🙆🏻‍♀️
+If you found this helpful, feel free to star the repository. Thank you!

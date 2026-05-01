@@ -1,4 +1,5 @@
 # 🍕 Case Study #2 Pizza Runner
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
 
@@ -14,7 +15,7 @@
 
 Please note that all the information regarding the case study has been sourced from the following link: [here](https://8weeksqlchallenge.com/case-study-2/).
 
-I also published this on [Medium](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-2-pizza-runner-ba32f0a6f9fb?source=friends_link&sk=5463dad7c9b0b1ba83d570f09e1fce90)!
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 ***
 
 ## Business Task
@@ -433,7 +434,7 @@ _(Assuming that distance is calculated from Pizza Runner HQ to customer’s plac
 
 ### 5. What was the difference between the longest and shortest delivery times for all orders?
 
-_Edit 08/10/21: Thanks to my reader, Ankush Taneja on Medium who caught my mistake. I've amended to the correct solution. Also, I was doing this case study using SQL Server few months ago, but I'm using PostgreSQL on SQLpad now so there could be a slight difference to the syntax._
+_Note: This solution uses PostgreSQL syntax. If you are using SQL Server, there may be slight differences in syntax._
 
 Firstly, I'm going to filter results with non-null duration first just to have a feel. You can skip this step and go straight to the answer.
 
