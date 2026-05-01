@@ -1,4 +1,5 @@
 ## 🌲 Case Study #7: Balanced Tree
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://github.com/katiehuangx/8-Week-SQL-Challenge/assets/81607668/8ada3c0c-e90a-47a7-9a5c-8ffd6ee3eef8" alt="Image" width="500" height="520">
 
@@ -86,9 +87,9 @@ Danny, the CEO of this trendy fashion company has asked you to assist the team�
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/dkhULDEjGib3K58MvDjYJr/8). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/dkhULDEjGib3K58MvDjYJr/8). Feel free to try the questions yourself!
 
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 ## 📈 A. High Level Sales Analysis
 

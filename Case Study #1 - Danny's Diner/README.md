@@ -1,4 +1,6 @@
 # 🍜 Case Study #1: Danny's Diner 
+> **Made by [udayvimal](https://github.com/udayvimal)**
+
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
 ## 📚 Table of Contents
@@ -23,11 +25,9 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138). Feel free to try the questions yourself!
 
-Additionally, I have also published this case study on [Medium](https://katiehuangx.medium.com/8-week-sql-challenge-case-study-week-1-dannys-diner-2ba026c897ab?source=friends_link&sk=ed355696f5a70ff8b3d5a1b905e5dabe).
-
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 **1. What is the total amount each customer spent at the restaurant?**
 
@@ -128,11 +128,11 @@ GROUP BY customer_id, product_name;
 - Customer B's first order is curry.
 - Customer C's first order is ramen.
 
-I have received feedback suggesting the use of `ROW_NUMBER()` instead of `DENSE_RANK()` for determining the "first order" in this question. 
+Note: Some suggest using `ROW_NUMBER()` instead of `DENSE_RANK()` for determining the "first order" here.
 
-However, since the `order_date` does not have a timestamp, it is impossible to determine the exact sequence of items ordered by the customer. 
+However, since `order_date` has no timestamp, it is impossible to determine the exact sequence of items ordered on the same day.
 
-Therefore, it would be inaccurate to conclude that curry is the customer's first order purely based on the alphabetical order of the product names. For this reason, I maintain my solution of using `DENSE_RANK()` and consider both curry and sushi as Customer A's first order.
+Therefore, concluding that curry is the first order purely based on alphabetical order would be inaccurate. `DENSE_RANK()` is the better choice, treating both curry and sushi as Customer A's first order.
 
 ***
 
@@ -207,7 +207,7 @@ WHERE rank = 1;
 | C           | ramen        |  3   |
 
 - Customer A and C's favourite item is ramen.
-- Customer B enjoys all items on the menu. He/she is a true foodie, sounds like me.
+- Customer B enjoys all items on the menu — a true foodie!
 
 ***
 

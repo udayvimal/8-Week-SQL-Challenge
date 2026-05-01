@@ -1,4 +1,5 @@
 # Case Study #6: Clique Bait
+> **Made by [udayvimal](https://github.com/udayvimal)**
 
 <img src="https://user-images.githubusercontent.com/81607668/134615258-d1108e0d-0816-4cd7-a972-d45580f82352.png" alt="Image" width="500" height="520">
 
@@ -44,9 +45,9 @@ In this case study - you are required to support the founder and CEO Danny’s v
 
 ## Question and Solution
 
-Please join me in executing the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/jmnwogTsUE8hGqkZv9H7E8/17). It would be great to work together on the questions!
+You can run the queries using PostgreSQL on [DB Fiddle](https://www.db-fiddle.com/f/jmnwogTsUE8hGqkZv9H7E8/17). Feel free to try the questions yourself!
 
-If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/).
+If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/uday-vimal-9a1a3a253) or [GitHub](https://github.com/udayvimal).
 
 ## 👩🏻‍💻 A. Digital Analysis
 
