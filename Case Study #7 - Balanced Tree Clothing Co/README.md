@@ -1,7 +1,7 @@
 ## 🌲 Case Study #7: Balanced Tree
 > **Made by [udayvimal](https://github.com/udayvimal)**
 
-<img src="https://github.com/katiehuangx/8-Week-SQL-Challenge/assets/81607668/8ada3c0c-e90a-47a7-9a5c-8ffd6ee3eef8" alt="Image" width="500" height="520">
+<img src="https://github.com/udayvimal/8-Week-SQL-Challenge/assets/143783002/8ada3c0c-e90a-47a7-9a5c-8ffd6ee3eef8" alt="Image" width="500" height="520">
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
@@ -20,7 +20,7 @@ Danny, the CEO of this trendy fashion company has asked you to assist the team�
 
 ## Entity Relationship Diagram
 
-<img width="932" alt="image" src="https://github.com/katiehuangx/8-Week-SQL-Challenge/assets/81607668/2ce4df84-2b05-4fe9-a50c-47c903b392d5">
+<img width="932" alt="image" src="https://github.com/udayvimal/8-Week-SQL-Challenge/assets/143783002/2ce4df84-2b05-4fe9-a50c-47c903b392d5">
 
 **Table 1: `product_details`**
 
