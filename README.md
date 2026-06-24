@@ -4,7 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
-This repository contains my personal solutions to the **[8 Week SQL Challenge](https://8weeksqlchallenge.com/)** by Danny Ma — a series of realistic business case studies designed to build advanced SQL skills.
+This repository contains my personal solutions to the **[8 Week SQL Challenge](https://8weeksqlchallenge.com/)**  — a series of realistic business case studies designed to build advanced SQL skills.
 
 Each case study simulates a real-world business problem. I worked through all questions independently, writing SQL queries from scratch and documenting my thought process and answers.
 
